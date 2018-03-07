@@ -1,7 +1,7 @@
 #aheaders {
     background-color: #ebebeb;
     color: #777;
-    margin-bottom: 5px;
+    margin-bottom: 10px;
     margin-left: 3.5%;
     margin-right: 3.5%;
     padding: 20px;
@@ -11,18 +11,18 @@
     color: #777;
     margin-left: 3.5%;
     margin-right: 3.5%;
-    padding: 4px;
+    padding: 3px;
 }
 article {
     background-color: #777;
     color: #ebebeb;
-    height: 200px;
+    height: 225px;
     padding: 5px;
 }
 aside {
     background-color: #ebebeb;
     float: right;
-    height: 312px;
+    height: 349px;
     margin-bottom: 20px;
     margin-top: 20px;
     padding-top: 17px;
