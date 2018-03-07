@@ -1,4 +1,50 @@
+article {
+    background-color: #777;
+    color: #ebebeb;
+    margin-top: 10px;
+    padding: 17px;
+}
+article.h1 h2 h3 {
+    background-color: #ebebeb;    
+}
+aside {
+    background-color: #ebebeb;
+    float: right;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    padding: 44px;
+    width: 431px;
+}
 body {
-    font-size: 18px;
+    background: #777;
+    box-sizing: border-box;
+    color: #777;
+    margin-left: 3.5%;
     text-align: center;
+    width: 960px;
+}
+footer {
+    background-color: #ebebeb;
+    clear: both;
+    margin-top: 10px;
+    overflow: auto;
+    padding: 17px;    
+}
+header {
+    background-color: #ebebeb;
+    margin-top: 10px;
+    padding: 10px;
+}
+nav {
+    background-color: #ebebeb;
+    margin-top: 10px;
+    padding: 17px;
+}
+section {
+    background-color: #ebebeb;
+    float: left;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    padding: 17px;
+    width: 461px;    
 }
