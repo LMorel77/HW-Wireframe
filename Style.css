@@ -1,25 +1,40 @@
+#aheaders {
+    background-color: #ebebeb;
+    color: #777;
+    margin-bottom: 5px;
+    margin-left: 3.5%;
+    margin-right: 3.5%;
+    padding: 20px;
+}
+#ap {
+    background-color: #ebebeb;
+    color: #777;
+    margin-left: 3.5%;
+    margin-right: 3.5%;
+    padding: 4px;
+}
 article {
     background-color: #777;
     color: #ebebeb;
-    margin-top: 10px;
-    padding: 17px;
-}
-article.h1 h2 h3 {
-    background-color: #ebebeb;    
+    height: 200px;
+    padding: 5px;
 }
 aside {
     background-color: #ebebeb;
     float: right;
+    height: 312px;
     margin-bottom: 20px;
     margin-top: 20px;
-    padding: 44px;
-    width: 431px;
+    padding-top: 17px;
+    width: 440px;
 }
 body {
     background: #777;
     box-sizing: border-box;
     color: #777;
-    margin-left: 3.5%;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    font-size: 18px;
+    margin-left: 5%;
     text-align: center;
     width: 960px;
 }
